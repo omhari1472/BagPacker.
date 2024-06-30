@@ -33,7 +33,7 @@ export default function LogIn() {
               className="m-auto w-full rounded-xl bg-primary px-4 py-2 rounded hover:bg-transparent hover:border-custom-secondary hover:border-3"
               type="submit"
             >
-              LogIn
+              <p className="text-custom-primary font-bold">LogIn</p>
             </button>
           </form>
         </div>
